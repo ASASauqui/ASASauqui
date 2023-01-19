@@ -18,6 +18,7 @@
 * 🌮 Taco and chilaquiles lover.
 
 **<h2>📚 Tech stack</h2>**
+I know more technologies, but the ones I use the most are these:
 <table>
     <tr>
         <th align="center" width="25%">
