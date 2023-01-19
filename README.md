@@ -102,6 +102,41 @@ Projects
     </tr>
 </table> -->
 
+**<h2>✨ Stats</h2>**
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=asasauqui&show_icons=true&locale=en" alt="asasauqui" />
+</p>
+
+<table>
+    <tr widht="100%" align="center">
+        <td width="50%">
+            <p align="center">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=asasauqui&" alt="asasauqui" />
+            </p>
+        </td>
+        <td width="50%">
+            <p align="center">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asasauqui&show_icons=true&locale=en&layout=compact" alt="asasauqui" />
+            </p>
+        </td>
+    </tr>
+</table>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=asasauqui" alt="asasauqui" />
+</p>
+
+
+**<h2>📃 View my resume</h2>**
+Summary of my life trajectory.
+
+<div align="center">
+    <a href="https://github.com/ASASauqui/ASASauqui/blob/main/resume/Resume%20-%20Alan%20Samuel%20Aguirre%20Salazar%20(2023).pdf">
+        <img src="https://img.shields.io/badge/resume-black.svg?style=for-the-badge">
+    </a>
+</div>
+
+
 **<h2>🤝 Get in touch</h2>**
 If you are interested in my profile, my person or you simply want to suggest something to improve, you can contact me at:
 
