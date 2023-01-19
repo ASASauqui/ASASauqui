@@ -70,7 +70,7 @@
                 <img src="https://img.shields.io/badge/mongodb-5fa54f.svg?style=for-the-badge&logo=mongodb&logoColor=white">
             </a>
             <a href="">
-                <img src="https://img.shields.io/badge/sql_server-white.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=red">
+                <img src="https://img.shields.io/badge/mssql-white.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=red">
             </a>
         </td>
         <td width="25%">
@@ -103,6 +103,7 @@ Projects
 </table> -->
 
 **<h2>✨ Stats</h2>**
+Python is the language that I have used the most and make others see as little, but in reality I have also worked too much with others.
 <table>
     <tr widht="100%" align="center">
         <th width="50%">
@@ -141,7 +142,7 @@ Summary of my life trajectory.
 </div>
 
 
-**<h2>🤝 Get in touch</h2>**
+**<h2>📫 Get in touch</h2>**
 If you are interested in my profile, my person or you simply want to suggest something to improve, you can contact me at:
 
 <div align="center">
