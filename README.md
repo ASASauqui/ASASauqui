@@ -1,8 +1,10 @@
 <div align="center">
-    <h1><b>Hi! I'm Alan👋</b></h1>
-    <img width="50%" style="border-radius: 20px" src="https://github.com/ASASauqui/Alan_Salazar/blob/main/images/alan_presentation.JPG?raw=true" alt="Alan" />
+    <h1>
+        <b>Hi! I'm Alan</b>
+        <img width="30px" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="Alan" />
+    </h1>
+    <img width="50%" style="border-radius: 20px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bps7AfHw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q14omw151lskl5h5qkyt.gif" alt="Alan" />
 </div>
-
 <br><br><br>
 
 **Hello!** 👋 I'm Alan, an Artificial Intelligence Engineering🤖 student and a Front-End and Back-End developer💻.
@@ -12,7 +14,7 @@
 * 💻 I work as a Front-End and Back-End developer, but I like the Front-End better.
 * 🗓️ I currently work as a junior software engineer.
 * ❤️ My favorite programming languages are Python, JavaScript, and C#.
-* 📍 I am from Jalisco, land of tequila and mariachi.
+* 📍 I am from Jalisco, land of tequila and mariachi, but I study in Aguascalientes.
 * 🌮 Taco and chilaquiles lover.
 
 **<h2>📚 Tech stack</h2>**
@@ -60,7 +62,7 @@
                 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
             </a>
             <a href="">
-                <img src="https://img.shields.io/badge/css4-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+                <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
             </a>
         </td>
         <td width="25%">
@@ -91,9 +93,14 @@
     </tr>
 </table>
 
-
-**<h2>⚙️ Some projects</h2>**
+<!-- **<h2>⚙️ Some projects</h2>**
 Projects
+<table>
+    <tr>
+        <td  width="33.3%">
+        </td>
+    </tr>
+</table> -->
 
 **<h2>🤝 Get in touch</h2>**
 If you are interested in my profile, my person or you simply want to suggest something to improve, you can contact me at:
