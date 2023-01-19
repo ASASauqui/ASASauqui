@@ -1,4 +1,11 @@
-**<h1 align="center">Alan Samuel Aguirre Salazar</h1>**
+<div align="center">
+    <h1>Alan Samuel Aguirre Salazar</h1>
+    <img width="50%" src="https://github.com/ASASauqui/Alan_Salazar/tree/main/images/alan_presentation.JPG" alt="Alan" />
+</div>
+
+#
+
+<br><br><br>
 
 **Hello!** 👋 I'm Alan, an Artificial Intelligence Engineering🤖 student and a Front-End and Back-End developer💻.
 
