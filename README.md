@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Welcome to Alan's Github🌎</h1>
+    <h1><b>Hi! I'm Alan👋</b></h1>
     <img width="50%" style="border-radius: 20px" src="https://github.com/ASASauqui/Alan_Salazar/blob/main/images/alan_presentation.JPG?raw=true" alt="Alan" />
 </div>
 
@@ -33,16 +33,60 @@
     </tr>
     <tr>
         <td width="25%">
-        JavaScript, TypeScript, C#, Python
+            <a href="">
+                <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=blue">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+            </a>
         </td>
         <td width="25%">
-        React.js, Next.js, Node.js, HTML, CSS
+            <a href="">
+                <img src="https://img.shields.io/badge/react.js-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/css4-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+            </a>
         </td>
         <td width="25%">
-        MongoDB, Microsoft SQL Serer
+            <a href="">
+                <img src="https://img.shields.io/badge/mongodb-5fa54f.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/sql_server-white.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=red">
+            </a>
         </td>
         <td width="25%">
-        GraphQL, Machine Learning, Git, Github
+            <a href="">
+                <img src="https://img.shields.io/badge/.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/graphql-1b1a2d.svg?style=for-the-badge&logo=graphql&logoColor=d522f4">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/git-E44C30.svg?style=for-the-badge&logo=git&logoColor=white">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/github-100000.svg?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+            <a href="">
+                <img src="https://img.shields.io/badge/machine_learning-white.svg?style=for-the-badge">
+            </a>
         </td>
     </tr>
 </table>
@@ -53,14 +97,16 @@ Projects
 
 **<h2>🤝 Get in touch</h2>**
 If you are interested in my profile, my person or you simply want to suggest something to improve, you can contact me at:
+
 <div align="center">
-    <a style="margin-right: 20px" ref="https://www.linkedin.com/in/alan-samuel-aguirre-salazar/">
-        <img width="7%" src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-blue-logo-icon.png" />
+    <a href="https://www.linkedin.com/in/alan-samuel-aguirre-salazar">
+        <img src="https://img.shields.io/badge/linkedin-0e76a8.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a style="margin-right: 20px" ref="https://twitter.com/AlanSauqui">
-        <img width="7%" src="https://www.aps.edu/sapr/images/pnglot.comtwitterbirdlogopng139932.png" />
+    <a href="mailto:ASASauqui@protonmail.com">
+        <img src="https://img.shields.io/badge/protonmail-31074f.svg?style=for-the-badge&logo=protonmail&logoColor=white">
     </a>
-    <a>
-        <img width="7%" src="https://uni-access.com/FrontMedia/images/nav-cv.png" />
+    <a href="https://twitter.com/AlanSauqui">
+        <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
 </div>
+
