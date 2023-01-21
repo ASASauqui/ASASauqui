@@ -94,15 +94,6 @@ I know more technologies, but the ones I use the most are these:
     </tr>
 </table>
 
-<!-- **<h2>⚙️ Some projects</h2>**
-Projects
-<table>
-    <tr>
-        <td  width="33.3%">
-        </td>
-    </tr>
-</table> -->
-
 **<h2>✨ Stats</h2>**
 Python is the language that I have used the most and make others see as little, but in reality I have also worked too much with others.
 <table>
@@ -132,17 +123,6 @@ Python is the language that I have used the most and make others see as little, 
     </tr>
 </table>
 
-
-**<h2>📃 View my resume</h2>**
-Summary of my life trajectory.
-
-<div align="center">
-    <a href="https://github.com/ASASauqui/ASASauqui/blob/main/resume/Resume%20-%20Alan%20Samuel%20Aguirre%20Salazar%20(2023).pdf">
-        <img src="https://img.shields.io/badge/resume-black.svg?style=for-the-badge">
-    </a>
-</div>
-
-
 **<h2>📫 Get in touch</h2>**
 If you are interested in my profile, my person or you simply want to suggest something to improve, you can contact me at:
 
@@ -155,6 +135,9 @@ If you are interested in my profile, my person or you simply want to suggest som
     </a>
     <a href="https://twitter.com/AlanSauqui">
         <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://github.com/ASASauqui/ASASauqui/blob/main/resume/Resume%20-%20Alan%20Samuel%20Aguirre%20Salazar%20(2023).pdf">
+        <img src="https://img.shields.io/badge/📃 resume-black.svg?style=for-the-badge">
     </a>
 </div>
 
