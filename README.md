@@ -21,21 +21,21 @@
 I know more technologies, but the ones I use the most are these:
 <table>
     <tr>
-        <th align="center" width="25%">
+        <th align="center">
         Programming Languages
         </th>
-        <th align="center" width="25%">
+        <th align="center">
         Web Technologies
         </th>
-        <th align="center" width="25%">
+        <th align="center">
         Databases
         </th>
-        <th align="center" width="25%">
+        <th align="center">
         Miscellaneus
         </th>
     </tr>
     <tr>
-        <td width="25%">
+        <td>
             <a href="">
                 <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
             </a>
@@ -49,7 +49,7 @@ I know more technologies, but the ones I use the most are these:
                 <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
             </a>
         </td>
-        <td width="25%">
+        <td>
             <a href="">
                 <img src="https://img.shields.io/badge/react.js-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
             </a>
@@ -66,7 +66,7 @@ I know more technologies, but the ones I use the most are these:
                 <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
             </a>
         </td>
-        <td width="25%">
+        <td>
             <a href="">
                 <img src="https://img.shields.io/badge/mongodb-5fa54f.svg?style=for-the-badge&logo=mongodb&logoColor=white">
             </a>
@@ -74,7 +74,7 @@ I know more technologies, but the ones I use the most are these:
                 <img src="https://img.shields.io/badge/mssql-white.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=red">
             </a>
         </td>
-        <td width="25%">
+        <td>
             <a href="">
                 <img src="https://img.shields.io/badge/.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
             </a>
