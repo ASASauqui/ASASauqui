@@ -1,9 +1,8 @@
-<div align="center">
+<div align="center">    
     <h1>
-        <b>Hi! I'm Alan</b>
-        <img width="30px" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="Alan" />
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=F7E6D6&background=FF000000&center=true&multiline=true&width=1500&height=120&lines=Hello!+I'm+Alan+Salazar;A.I.+student+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
     </h1>
-    <img width="50%" style="border-radius: 20px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bps7AfHw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q14omw151lskl5h5qkyt.gif" alt="Alan" />
+    <img width="40%" style="border-radius: 20px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bps7AfHw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q14omw151lskl5h5qkyt.gif" alt="Alan" />
 </div>
 <br><br><br>
 
@@ -94,34 +93,29 @@ I know more technologies, but the ones I use the most are these:
     </tr>
 </table>
 
-**<h2>✨ Stats</h2>**
+<details>
+<summary><h2>✨ Stats</h2><hr></summary>
+<br>
+    
 Python is the language that I have used the most and make others see as little, but in reality I have also worked too much with others.
-<table>
-    <tr widht="100%" align="center">
-        <th width="50%">
-            <p align="center">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=asasauqui&" alt="asasauqui" />
-            </p>
-        </th>
-        <th width="50%">
-            <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asasauqui&show_icons=true&locale=en&layout=compact" alt="asasauqui" />
-            </p>
-        </th>
-    </tr>
-    <tr widht="100%" align="center">
-        <td width="50%">
-            <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=asasauqui&show_icons=true&locale=en" alt="asasauqui" />
-            </p>
-        </td>
-        <td width="50%">
-            <p align="center">
-                <img src="https://github-profile-trophy.vercel.app/?username=asasauqui" alt="asasauqui" />
-            </p>
-        </td>
-    </tr>
-</table>
+
+<br>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASASauqui&theme=moltack)
+    
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASASauqui&theme=moltack)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASASauqui&theme=moltack)
+
+</div>
+
+</details>
+
 
 **<h2>📫 Get in touch</h2>**
 If you are interested in my profile, my person or you simply want to suggest something to improve, you can contact me at:
