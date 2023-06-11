@@ -1,17 +1,17 @@
 <div align="center">    
     <h1>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=F7E6D6&background=FF000000&center=true&multiline=true&width=1500&height=120&lines=Hello!+I'm+Alan+Salazar;A.I.+student+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=F7E6D6&background=FF000000&center=true&multiline=true&width=1500&height=120&lines=Hello!+I'm+Alan+Salazar;A.I.+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
     </h1>
     <img width="40%" style="border-radius: 20px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bps7AfHw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q14omw151lskl5h5qkyt.gif" alt="Alan" />
 </div>
 <br><br><br>
 
-**Hello!** 👋 I'm Alan, an Artificial Intelligence Engineering🤖 student and a Front-End and Back-End developer💻.
+**Hello!** 👋 I'm Alan, an Artificial Intelligence Engineer🤖 and Full Stack Developer💻.
 
 **<h2>🤠 About me</h2>**
-* 👨‍🎓 8th semester student in Artificial Intelligence engineering at the Universidad Panamericana, Bonaterra campus.
-* 💻 I work as a Front-End and Back-End developer, but I like the Front-End better.
-* 🗓️ I currently work as a junior software engineer.
+* 👨‍🎓 Artificial Intelligence Engineer at the Universidad Panamericana, Bonaterra campus.
+* 🏭 Student of Specialization in Engineering and Quality of Software Assurance at the Universidad Panamericana, Bonaterra campus.
+* 💻 I currently work as a Junior Full Stack Developer.
 * ❤️ My favorite programming languages are Python, JavaScript, and C#.
 * 📍 I am from Jalisco, land of tequila and mariachi, but I study in Aguascalientes.
 * 🌮 Taco and chilaquiles lover.
@@ -127,7 +127,7 @@ If you are interested in my profile, my person or you simply want to suggest som
     <a href="mailto:ASASauqui@protonmail.com">
         <img src="https://img.shields.io/badge/protonmail-31074f.svg?style=for-the-badge&logo=protonmail&logoColor=white">
     </a>
-    <a href="https://twitter.com/AlanSauqui">
+    <a href="https://twitter.com/ASASauqui">
         <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a href="https://github.com/ASASauqui/ASASauqui/blob/main/resume/Resume%20-%20Alan%20Samuel%20Aguirre%20Salazar%20(2023).pdf">
