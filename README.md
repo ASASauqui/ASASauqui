@@ -8,8 +8,10 @@
 
 **Hello!** 👋 I'm Alan, an Artificial Intelligence Engineer🤖 and Full Stack Developer💻.
 
+<br>
+
 **<h2>🤠 About me</h2>**
-<hr>
+
 * 👨‍🎓 Artificial Intelligence Engineer at the Universidad Panamericana, Bonaterra campus.
 * 🏭 Student of Specialization in Engineering and Quality of Software Assurance at the Universidad Panamericana, Bonaterra campus.
 * 💻 I currently work as a Junior Full Stack Developer.
@@ -17,8 +19,11 @@
 * 📍 I am from Jalisco, land of tequila and mariachi, but I study in Aguascalientes.
 * 🌮 Taco and chilaquiles lover.
 
+<br>
+<br>
+
 **<h2>📚 Tech stack</h2>**
-<hr>
+
 I know more technologies, but the ones I use the most are these:
 <table>
     <tr>
@@ -71,7 +76,8 @@ I know more technologies, but the ones I use the most are these:
     </tr>
 </table>
 
-
+<br>
+<br>
 
 <details>
 <summary><h2>✨ Stats</h2><hr></summary>
@@ -96,9 +102,12 @@ Python is the language that I have used the most and make others see as little, 
 
 </details>
 
+<br>
+<br>
+
 
 **<h2>📫 Get in touch</h2>**
-<hr>
+
 If you are interested in my profile, my person or you simply want to suggest something to improve, you can contact me at:
 
 <div align="center">
@@ -115,4 +124,3 @@ If you are interested in my profile, my person or you simply want to suggest som
         <img src="https://img.shields.io/badge/📃 resume-black.svg?style=for-the-badge">
     </a>
 </div>
-
