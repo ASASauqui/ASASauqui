@@ -9,6 +9,7 @@
 **Hello!** 👋 I'm Alan, an Artificial Intelligence Engineer🤖 and Full Stack Developer💻.
 
 **<h2>🤠 About me</h2>**
+<hr>
 * 👨‍🎓 Artificial Intelligence Engineer at the Universidad Panamericana, Bonaterra campus.
 * 🏭 Student of Specialization in Engineering and Quality of Software Assurance at the Universidad Panamericana, Bonaterra campus.
 * 💻 I currently work as a Junior Full Stack Developer.
@@ -17,86 +18,65 @@
 * 🌮 Taco and chilaquiles lover.
 
 **<h2>📚 Tech stack</h2>**
+<hr>
 I know more technologies, but the ones I use the most are these:
 <table>
     <tr>
-        <th align="center">
-        Programming Languages
-        </th>
-        <th align="center">
-        Web Technologies
-        </th>
-        <th align="center">
-        Databases
-        </th>
-        <th align="center">
-        Miscellaneus
-        </th>
+        <th align="left">Programming Languages</th>
+        <td>
+            <a href=""><img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+            <a href=""><img src="https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=blue"></a>
+            <a href=""><img src="https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+        </td>
     </tr>
     <tr>
+        <th align="left">Front-End Development</th>
         <td>
-            <a href="">
-                <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=blue">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-            </a>
+            <a href=""><img src="https://img.shields.io/badge/react.js-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+            <a href=""><img src="https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=red"></a>
+            <a href=""><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=502a70"></a>
+            <a href=""><img src="https://img.shields.io/badge/material_ui-3789e8.svg?style=for-the-badge&logo=mui&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/tailwind-162333.svg?style=for-the-badge"></a>
         </td>
+    </tr>
+    <tr>
+        <th align="left">Back-End Development</th>
         <td>
-            <a href="">
-                <img src="https://img.shields.io/badge/react.js-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-            </a>
+            <a href=""><img src="https://img.shields.io/badge/.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/express-white.svg?style=for-the-badge&logo=express&logoColor=black"></a>
+            <a href=""><img src="https://img.shields.io/badge/graphql-1b1a2d.svg?style=for-the-badge&logo=graphql&logoColor=d522f4"></a>
         </td>
+    </tr>
+    <tr>
+        <th align="left">Databases</th>
         <td>
-            <a href="">
-                <img src="https://img.shields.io/badge/mongodb-5fa54f.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/mssql-white.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=red">
-            </a>
+            <a href=""><img src="https://img.shields.io/badge/mongodb-5fa54f.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/mssql-white.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=red"></a>
         </td>
+    </tr>
+    <tr>
+        <th align="left">Miscellaneous</th>
         <td>
-            <a href="">
-                <img src="https://img.shields.io/badge/.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/graphql-1b1a2d.svg?style=for-the-badge&logo=graphql&logoColor=d522f4">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/git-E44C30.svg?style=for-the-badge&logo=git&logoColor=white">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/github-100000.svg?style=for-the-badge&logo=github&logoColor=white">
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/machine_learning-white.svg?style=for-the-badge">
-            </a>
+            <a href=""><img src="https://img.shields.io/badge/git-E44C30.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/github-100000.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/machine_learning-white.svg?style=for-the-badge"></a>
+            <a href=""><img src="https://img.shields.io/badge/deep_learning-870454.svg?style=for-the-badge"></a>
+            <a href=""><img src="https://img.shields.io/badge/pytorch-white.svg?style=for-the-badge&logo=pytorch&logoColor=e03f2a"></a>
         </td>
     </tr>
 </table>
 
+
+
 <details>
 <summary><h2>✨ Stats</h2><hr></summary>
 <br>
-    
+
 Python is the language that I have used the most and make others see as little, but in reality I have also worked too much with others.
 
 <br>
@@ -104,7 +84,7 @@ Python is the language that I have used the most and make others see as little, 
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASASauqui&theme=moltack)
-    
+
 </div>
 
 <div align="center">
@@ -118,6 +98,7 @@ Python is the language that I have used the most and make others see as little, 
 
 
 **<h2>📫 Get in touch</h2>**
+<hr>
 If you are interested in my profile, my person or you simply want to suggest something to improve, you can contact me at:
 
 <div align="center">
