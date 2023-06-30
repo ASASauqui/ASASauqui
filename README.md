@@ -1,14 +1,10 @@
 <div align="center">    
     <h1>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=F7E6D6&background=FF000000&center=true&multiline=true&width=1500&height=120&lines=Hello!+I'm+Alan+Salazar;A.I.+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=F7E6D6&background=FF000000&center=true&multiline=true&width=1500&height=120&lines=Hello!+I'm+Alan+Salazar;A.I.+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
     </h1>
     <img width="40%" style="border-radius: 20px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bps7AfHw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q14omw151lskl5h5qkyt.gif" alt="Alan" />
 </div>
 <br><br><br>
-
-**Hello!** 👋 I'm Alan, an Artificial Intelligence Engineer🤖 and Full Stack Developer💻.
-
-<br>
 
 **<h2>🤠 About me</h2>**
 
@@ -33,6 +29,9 @@ I know more technologies, but the ones I use the most are these:
             <a href=""><img src="https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=blue"></a>
             <a href=""><img src="https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/c-004682.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/c++-004682.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/java-orange.svg?style=for-the-badge"></a>
         </td>
     </tr>
     <tr>
@@ -79,9 +78,7 @@ I know more technologies, but the ones I use the most are these:
 <br>
 <br>
 
-<details>
-<summary><h2>✨ Stats</h2><hr></summary>
-<br>
+**<h2>✨ Stats</h2>**
 
 Python is the language that I have used the most and make others see as little, but in reality I have also worked too much with others.
 
@@ -100,8 +97,6 @@ Python is the language that I have used the most and make others see as little, 
 
 </div>
 
-</details>
-
 <br>
 <br>
 
@@ -109,6 +104,8 @@ Python is the language that I have used the most and make others see as little, 
 **<h2>📫 Get in touch</h2>**
 
 If you are interested in my profile, my person or you simply want to suggest something to improve, you can contact me at:
+
+<br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/alan-samuel-aguirre-salazar">
