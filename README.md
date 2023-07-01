@@ -44,7 +44,7 @@ I know more technologies, but the ones I use the most are these:
             <a href=""><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=502a70"></a>
             <a href=""><img src="https://img.shields.io/badge/material_ui-3789e8.svg?style=for-the-badge&logo=mui&logoColor=white"></a>
-            <a href=""><img src="https://img.shields.io/badge/tailwind-162333.svg?style=for-the-badge"></a>
+            <a href=""><img src="https://img.shields.io/badge/tailwind_css-162333.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
         </td>
     </tr>
     <tr>
