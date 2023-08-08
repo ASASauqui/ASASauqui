@@ -29,6 +29,7 @@ I know more technologies, but the ones I use the most are these:
             <a href=""><img src="https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=blue"></a>
             <a href=""><img src="https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+            <a href=""><img src="https://img.shields.io/badge/elixir-white.svg?style=for-the-badge&logo=elixir&logoColor=purple"></a>
             <a href=""><img src="https://img.shields.io/badge/c-004682.svg?style=for-the-badge&logo=c&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/c++-004682.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/java-orange.svg?style=for-the-badge"></a>
@@ -40,6 +41,7 @@ I know more technologies, but the ones I use the most are these:
             <a href=""><img src="https://img.shields.io/badge/react.js-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
             <a href=""><img src="https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=red"></a>
+            <a href=""><img src="https://img.shields.io/badge/phoenix_framework-453634.svg?style=for-the-badge&logo=phoenix-framework&logoColor=fd4f00"></a>
             <a href=""><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=502a70"></a>
@@ -83,6 +85,14 @@ I know more technologies, but the ones I use the most are these:
 Python is the language that I have used the most and make others see as little, but in reality I have also worked too much with others.
 
 <br>
+
+<div align="center">
+
+<h4>🙋‍♂️Visitor Count🙋</h4>
+
+![Visitor Count](https://profile-counter.glitch.me/alansauqui/count.svg)
+
+</div>
 
 <div align="center">
 
