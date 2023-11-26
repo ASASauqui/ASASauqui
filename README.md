@@ -1,6 +1,6 @@
 <div align="center">    
     <h1>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=F7E6D6&background=FF000000&center=true&multiline=true&width=1500&height=120&lines=Hello!+I'm+Alan+Salazar;A.I.+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=F7E6D6&background=FF000000&center=true&multiline=true&width=1500&height=120&lines=Hello!+I'm+Alan+Salazar;A.I.+Engineer+%7C+Software+Engineer" alt="Typing SVG" /></a>
     </h1>
     <img width="40%" style="border-radius: 20px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bps7AfHw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q14omw151lskl5h5qkyt.gif" alt="Alan" />
 </div>
@@ -9,9 +9,9 @@
 **<h2>🤠 About me</h2>**
 
 * 👨‍🎓 Artificial Intelligence Engineer at the Universidad Panamericana, Bonaterra campus.
-* 🏭 Student of Specialization in Engineering and Quality of Software Assurance at the Universidad Panamericana, Bonaterra campus.
-* 💻 I currently work as a Junior Full Stack Developer.
-* ❤️ My favorite programming languages are Python, JavaScript, and C#.
+* 🏭 Student of Postgraduate Degree in Engineering and Quality of Software Assurance at the Universidad Panamericana, Bonaterra campus.
+* 💻 I currently work as a Junior Software Engineer.
+* ❤️ My favorite programming languages are Python, JavaScript, and Elixir.
 * 📍 I am from Jalisco, land of tequila and mariachi, but I study in Aguascalientes.
 * 🌮 Taco and chilaquiles lover.
 
