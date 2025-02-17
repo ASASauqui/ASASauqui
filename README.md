@@ -9,10 +9,10 @@
 **<h2>🤠 About me</h2>**
 
 * 👨‍🎓 Artificial Intelligence Engineer at the Universidad Panamericana, Bonaterra campus.
-* 🏭 Student of Postgraduate Degree in Engineering and Quality of Software Assurance at the Universidad Panamericana, Bonaterra campus.
-* 💻 I currently work as a Junior Software Engineer.
+* 🏭 Postgraduate Degree in Engineering and Quality of Software Assurance at the Universidad Panamericana, Bonaterra campus.
+* 💻 I currently work as a Full Stack Engineer.
 * ❤️ My favorite programming languages are Python, JavaScript, and Elixir.
-* 📍 I am from Jalisco, land of tequila and mariachi, but I study in Aguascalientes.
+* 📍 I am from Jalisco, land of tequila and mariachi.
 * 🌮 Taco and chilaquiles lover.
 
 <br>
@@ -123,9 +123,6 @@ If you are interested in my profile, my person or you simply want to suggest som
     </a>
     <a href="mailto:ASASauqui@protonmail.com">
         <img src="https://img.shields.io/badge/protonmail-31074f.svg?style=for-the-badge&logo=protonmail&logoColor=white">
-    </a>
-    <a href="https://twitter.com/ASASauqui">
-        <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a href="https://github.com/ASASauqui/ASASauqui/blob/main/resume/Resume%20-%20Alan%20Samuel%20Aguirre%20Salazar%20(2023).pdf">
         <img src="https://img.shields.io/badge/📃 resume-black.svg?style=for-the-badge">
