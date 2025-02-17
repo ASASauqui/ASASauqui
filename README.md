@@ -27,12 +27,9 @@ I know more technologies, but the ones I use the most are these:
         <td>
             <a href=""><img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
             <a href=""><img src="https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=blue"></a>
+            <a href=""><img src="https://img.shields.io/badge/elixir-white.svg?style=for-the-badge&logo=elixir&logoColor=purple"></a>
             <a href=""><img src="https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-            <a href=""><img src="https://img.shields.io/badge/elixir-white.svg?style=for-the-badge&logo=elixir&logoColor=purple"></a>
-            <a href=""><img src="https://img.shields.io/badge/c-004682.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-            <a href=""><img src="https://img.shields.io/badge/c++-004682.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
-            <a href=""><img src="https://img.shields.io/badge/java-orange.svg?style=for-the-badge"></a>
         </td>
     </tr>
     <tr>
@@ -40,29 +37,27 @@ I know more technologies, but the ones I use the most are these:
         <td>
             <a href=""><img src="https://img.shields.io/badge/react.js-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
             <a href=""><img src="https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
-            <a href=""><img src="https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=red"></a>
             <a href=""><img src="https://img.shields.io/badge/phoenix_framework-453634.svg?style=for-the-badge&logo=phoenix-framework&logoColor=fd4f00"></a>
             <a href=""><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-            <a href=""><img src="https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=502a70"></a>
-            <a href=""><img src="https://img.shields.io/badge/material_ui-3789e8.svg?style=for-the-badge&logo=mui&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/tailwind_css-162333.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
         </td>
     </tr>
     <tr>
         <th align="left">Back-End Development</th>
         <td>
-            <a href=""><img src="https://img.shields.io/badge/.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/express-white.svg?style=for-the-badge&logo=express&logoColor=black"></a>
+            <a href=""><img src="https://img.shields.io/badge/phoenix_framework-453634.svg?style=for-the-badge&logo=phoenix-framework&logoColor=fd4f00"></a>
+            <a href=""><img src="https://img.shields.io/badge/.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"></a>
             <a href=""><img src="https://img.shields.io/badge/graphql-1b1a2d.svg?style=for-the-badge&logo=graphql&logoColor=d522f4"></a>
         </td>
     </tr>
     <tr>
         <th align="left">Databases</th>
         <td>
-            <a href=""><img src="https://img.shields.io/badge/mongodb-5fa54f.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-            <a href=""><img src="https://img.shields.io/badge/mssql-white.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=red"></a>
+            <a href=""><img src="https://img.shields.io/badge/postgresql-white.svg?style=for-the-badge&logo=postgresql&logoColor=blue"></a>
+            <a href=""><img src="https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
         </td>
     </tr>
     <tr>
