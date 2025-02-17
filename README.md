@@ -77,34 +77,20 @@ I know more technologies, but the ones I use the most are these:
 
 **<h2>✨ Stats</h2>**
 
-Python is the language that I have used the most and make others see as little, but in reality I have also worked too much with others.
-
-<br>
-
 <div align="center">
 
-<h4>🙋‍♂️Visitor Count🙋</h4>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ASASauqui&show_icons=true&count_private=true&theme=apprentice&hide_border=true&hide=contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ASASauqui&layout=compact&hide_border=true&theme=apprentice&bg_color=00000000&hide=jupyter%20notebook,css">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ASASauqui&theme=apprentice&hide_border=true&background=FFFFFF00">
+</p>
 
-![Visitor Count](https://profile-counter.glitch.me/alansauqui/count.svg)
-
-</div>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASASauqui&theme=moltack)
-
-</div>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASASauqui&theme=moltack)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASASauqui&theme=moltack)
-
-</div>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ASASauqui&theme=gruvbox"/>
+</p>
 
 <br>
 <br>
-
 
 **<h2>📫 Get in touch</h2>**
 
