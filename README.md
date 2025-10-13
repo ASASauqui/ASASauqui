@@ -2,7 +2,7 @@
     <h1>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=F7E6D6&background=FF000000&center=true&multiline=true&width=1500&height=120&lines=Hello!+I'm+Alan+Salazar;A.I.+Engineer+%7C+Software+Engineer" alt="Typing SVG" /></a>
     </h1>
-    <img width="40%" style="border-radius: 20px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bps7AfHw--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q14omw151lskl5h5qkyt.gif" alt="Alan" />
+    <img width="40%" style="border-radius: 20px" src="https://media.tenor.com/8wBCqZH60U8AAAAM/computer-cat.gif" alt="Alan" />
 </div>
 <br><br><br>
 
